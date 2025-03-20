@@ -1,6 +1,6 @@
-# Weather Forecast Data API
+# Weather Forecast Data Application
 ## Description
-Weather Data API made using Python where the API will provide temperature data over time and detailed weather conditions for each forecast day, along with the capability to generate a graphical representation of temperature trends.
+Weather Data Application made using Python where the API will provide temperature data over time and detailed weather conditions for each forecast day, along with the capability to generate a graphical representation of temperature trends.
 
 ## Tools & Library Used
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
